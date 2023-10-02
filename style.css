@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Nunito:wght@800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body{
+
+    padding: 40px 346px 86px 346px;
+
+  }
+
+  nav{
+
+    display: flex;
+    justify-content: space-around;
+    gap: 233px ; 
+  }
+
+  main#t01{
+
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+
+  }
+
+  .botao{
+    background-color:#3772FF;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 16px 20px;
+    font-family: 'Nunito', sans-serif;
+    text-decoration: none;
+    color:#F9F9F9;
+    font-weight: 800;
+    
+  }
